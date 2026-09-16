@@ -7,7 +7,7 @@ color:rgb(255, 255, 255)
   }
 
   p {
-color: rgb(41, 114, 31);
+color: rgb(157, 147, 142);
  } 
    
  strong {
@@ -17,3 +17,6 @@ color:rgb(105, 6, 6)
   h2 {
   color:rgb(224, 168, 160) 
     } 
+     ul {
+color: deeppink;
+     }
