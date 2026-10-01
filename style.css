@@ -2,6 +2,10 @@
 body {
     background-color: rgb(208, 208, 159);
 }
+* {
+  -webkit-text-stroke: 1.2px rgb(223, 145, 116); 
+
+}
   h1 {
 color:rgb(255, 255, 255)
   }
