@@ -36,3 +36,8 @@ color: rgb(114,106, 101)
  a:link {
     color: rgb(77, 68, 58)
  }
+
+ .img1 {
+    width: 50%;
+    text-align: center;
+}
