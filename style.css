@@ -3,7 +3,7 @@ body {
     background-color: rgb(208, 208, 159);
 }
 * {
-  -webkit-text-stroke: 0.1px rgb(223, 145, 116); 
+  -webkit-text-stroke: 0.01px rgb(223, 145, 116); 
 
 }
   h1 {
