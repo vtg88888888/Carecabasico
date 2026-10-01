@@ -2,10 +2,6 @@
 body {
     background-color: rgb(208, 208, 159);
 }
-* {
-  -webkit-text-stroke: 1px rgb(223, 145, 116); 
-
-}
   h1 {
   font-weight: bold;
     color:rgb(255, 255, 255)
