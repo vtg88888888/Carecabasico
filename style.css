@@ -28,9 +28,9 @@ h2 {
 /* Subtítulos (h3) */
 h3 {
     font-weight: bold;
-    font-size: 1.4rem;
+    font-size: 1.6rem;
     color: rgb(242, 224, 203);
-    -webkit-text-stroke: 0.6px rgb(223, 145, 116);
+    -webkit-text-stroke: 0.5px rgb(223, 145, 116);
 }
 
 /* Subtítulos do rodapé (h4) */
